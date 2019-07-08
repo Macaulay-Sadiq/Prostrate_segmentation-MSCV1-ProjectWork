@@ -7,18 +7,8 @@
    - on the displayed window,  browse the folder containing images (folder is expected to contain ‘.dcm’ file extension), all the required files in the folder are imported into the work space and the first image file  and its corresponding data is displayed on the GUI axis by default.
 
 #### Previewing image files: ####
-	If image directory is successfully loaded to workspace, we can now sequentially display the 	images in the image in the directory with their corresponding information on the GUI
+If image directory is successfully loaded to workspace, we can now sequentially display the 	images in the image in the directory with their corresponding information on the GUI
    - Click on  and    push buttoRunning The GUI
-
-#### Loading Image into workspace: ####
-   - Click on the  push button 
-   - on the displayed window,  browse the folder containing images (folder is expected to contain ‘.dcm’ file extension), all the required files in the folder are imported into the work space and the first image file  and its corresponding data is displayed on the GUI axis by default.
-
-#### Previewing image files: ####
-	If image directory is successfully loaded to workspace, we can now sequentially display the 	images in the image in the directory with their corresponding information on the GUI
-   - Click on  and    push buttons to view next and previous image and image- info on the GUI            
-   - each image and its corresponding information are displayed on the GUI as follows
-       
 
 #### Anonymize DICOM information: ####
   - DICOM data can be anonymized by clicking on   push button on the ‘Tools’ panel:
